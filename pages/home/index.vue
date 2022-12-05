@@ -2,7 +2,7 @@
     <div class="home-page">
         <div class="banner">
         <div class="container">
-            <h1 class="logo-font">speed</h1>
+            <h1 class="logo-font">thunderg speed</h1>
             <p>依栏人望月一笑</p>
         </div>
     </div>
